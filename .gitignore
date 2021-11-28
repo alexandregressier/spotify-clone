@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# IntelliJ IDEA
+.idea/*
+!.idea/dictionaries/
+!.idea/scopes/
+!.idea/fileColors.xml
